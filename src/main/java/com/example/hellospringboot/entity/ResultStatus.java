@@ -2,7 +2,6 @@ package com.example.hellospringboot.entity;
 
 import com.example.hellospringboot.common.Constant;
 
-//second change
 public enum ResultStatus {
     SUCCESS(Constant.SUCCESS, "success"),
     FAIL(Constant.FAIL, "fail"),
